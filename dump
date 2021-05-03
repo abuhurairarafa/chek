@@ -18,7 +18,7 @@ def jalan(z):
 		time.sleep(0.03)
 
 def banner():
-    print("""   ___                \n  / _ \__ ____ _  ___ ® ┌──────────────────────────────┐\n / // / // /  ' \/ _ \  │  Script By Abu Huraira Rafa  │\n/____/\_,_/_/_/_/ .__/  │   •• Github.com/abuhurairarafa ••   │\n   ID Facebook /_/      └──────────────────────────────┘""")
+    print("""│  Script By Abu Huraira Rafa  │\n/____/\_,_/_/_/_/ .__/  │   •• /abuhurairarafa ••   │\n   ID Facebook /""")
   
 def login():
     os.system('clear')
